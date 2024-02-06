@@ -40,10 +40,12 @@ function App() {
 
   return (
     <>
-      <h1>Chai aur React</h1>
-      <h2>Counter Value : {counter}</h2>
-      <button onClick={addValue}>Add Value</button><br/>
-      <button onClick={removeValue}>Remove Value </button>
+      <div>
+        <h1>Counter</h1>
+        <h2>Counter Value : {counter}</h2>
+        <button onClick={addValue}>Add Value</button><br/>
+        <button onClick={removeValue}>Remove Value </button>
+      </div> 
     </>
   )
 }
