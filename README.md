@@ -1,5 +1,6 @@
 # React-Projects
 
+##Introduction
 ##### This repository contains a collection of React Projects that demonstrate the use of React
 
 <hr>
@@ -19,3 +20,12 @@ otherwise you can check individually.
 |Todo-ContextApi                |[live test](https://react-projects-shivam.netlify.app/06_todocontextapi/dist/)        |
 
 <hr>
+
+I link all the build files of react projects with HTML and deploy on single hosting instead of multiple hosting for individuals.
+
+**for Build file use:**
+    
+    npm run build
+    
+
+
