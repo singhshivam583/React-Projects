@@ -17,8 +17,8 @@ otherwise you can check individually.
 | Password Generator            |[live test](https://react-projects-shivam.netlify.app/03_passwordgenrator/dist/)      |
 | Currency Converter            |[live test](https://react-projects-shivam.netlify.app/04_currencyconverter/dist/)     |
 | Theme Switcher                |[live test](https://react-projects-shivam.netlify.app/05_themeswitcher/dist/)         |
-|Todo-ContextApi                |[live test](https://react-projects-shivam.netlify.app/06_todocontextapi/dist/)        |
-|Todo-ReduxToolkit              |[live test](https://react-projects-shivam.netlify.app/07_todoreduxtoolkit/dist/)      |
+|Todo-ContextApi                |[live test](https://react-projects-shivam.netlify.app/06_todo_contextapi/dist/)       |
+|Todo-ReduxToolkit              |[live test](https://react-projects-shivam.netlify.app/07_todo_reduxtoolkit/dist/)     |
 
 <hr>
 
