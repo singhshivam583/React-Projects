@@ -18,6 +18,7 @@ otherwise you can check individually.
 | Currency Converter            |[live test](https://react-projects-shivam.netlify.app/04_currencyconverter/dist/)     |
 | Theme Switcher                |[live test](https://react-projects-shivam.netlify.app/05_themeswitcher/dist/)         |
 |Todo-ContextApi                |[live test](https://react-projects-shivam.netlify.app/06_todocontextapi/dist/)        |
+|Todo-ReduxToolkit              |[live test](https://react-projects-shivam.netlify.app/07_todoreduxtoolkit/dist/)        |
 
 <hr>
 
